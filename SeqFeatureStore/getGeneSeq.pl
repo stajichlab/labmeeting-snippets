@@ -13,7 +13,7 @@ die "Please provide a SQLite datafile of a seqfeature db" if !defined $sqlite;
 ## SQLite database and all the methods needed to interact with the database
 #############################################################################
 
-# Open the sequence database
+#Open the sequence database
 my $db_obj = Bio::DB::SeqFeature::Store->new(
   -adaptor => 'DBI::SQLite',
   -dsn     => $sqlite
