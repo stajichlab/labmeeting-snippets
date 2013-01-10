@@ -1,0 +1,6 @@
+# Sample and OTU degree counts
+Degree	Both Count 
+1	59
+2	45
+70	1
+79	1

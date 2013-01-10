@@ -1,0 +1,4 @@
+# Just OTU degree counts
+Degree	OTU Count
+1	59
+2	45
